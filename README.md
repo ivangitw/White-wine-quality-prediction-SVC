@@ -25,17 +25,30 @@ This project implements a support vector machine (SVC) model for predicting the 
 - API documentation is available at `http://127.0.0.1:8000/docs`.
 
 Input variables:
+
    1 - fixed acidity (float)
+   
    2 - volatile acidity (float)
+   
    3 - citric acid (float)
+   
    4 - residual sugar (float)
+   
    5 - chlorides (float)
+   
    6 - free sulfur dioxide (float)
+   
    7 - total sulfur dioxide (float)
+   
    8 - density (float)
+   
    9 - pH (float)
+   
    10 - sulphates (float)
+   
    11 - alcohol (float)
+   
 Output variable: 
+
    12 - quality (score between 0 and 10) (int)
 
