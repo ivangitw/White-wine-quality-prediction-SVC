@@ -6,8 +6,8 @@ This project implements a support vector machine (SVC) model for predicting the 
 
 ## How to Run
 1. Install and run Docker.
-2. Build Docker image using `docker build -t my-fastapi-app .`.
-3. Run Docker container using `docker run -d -p 8000:80 my-fastapi-app`.
+2. Build Docker image using `docker build -t wine-quality-predictor .`.
+3. Run Docker container using `docker run -d -p 8000:80 wine-quality-predictor`.
 4. Go to `http://127.0.0.1:8000/docs` to see all available methods of the API.
 
 ## Project Structure
